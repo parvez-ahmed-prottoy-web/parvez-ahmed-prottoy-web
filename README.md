@@ -28,17 +28,17 @@
 
 ### Skills and Tools:
 
-<img alt="postman" title="postman" hspace="5" src="./assets/skills/icons8-postman-is-the-only-complete-api-development-environment-48.png" />
-<img alt="rest-api" title="rest-api" hspace="5" src="./assets/skills/icons8-rest-api-50.png" />
-<img alt="mongodb" title="mongodb" hspace="5" src="./assets/skills/icons8-mongodb-48.png" />
-<img alt="express" title="expressjs" hspace="5" src="./assets/skills/icons8-express-js-48.png" />
-<img alt="nodejs" title="nodejs" hspace="5" src="./assets/skills/icons8-nodejs-48 (1).png" />
-<img alt="github" title="github" hspace="5" src="./assets/skills/icons8-github-48.png" />
-<img alt="git" title="git" hspace="5" src="./assets/skills/icons8-git-48.png" />
-<img alt="javaScript" title="javaScript" hspace="5" src="./assets/skills/icons8-js.gif" />
-<img alt="css3" title="css3" hspace="5" src="./assets/skills/icons8-css-48.png" />
-<img alt="html5" title="html" hspace="5" src="./assets/skills/icons8-html-48.png" />
-<img alt="visual-studio-code" title="visual" hspace="5" src="./assets/skills/icons8-visual-studio-code-2019-48.png" />
+<img align="left" alt="postman" title="postman" hspace="5" src="./assets/skills/icons8-postman-is-the-only-complete-api-development-environment-48.png" />
+<img align="left" alt="rest-api" title="rest-api" hspace="5" src="./assets/skills/icons8-rest-api-50.png" />
+<img align="left" alt="mongodb" title="mongodb" hspace="5" src="./assets/skills/icons8-mongodb-48.png" />
+<img align="left" alt="express" title="expressjs" hspace="5" src="./assets/skills/icons8-express-js-48.png" />
+<img align="left" alt="nodejs" title="nodejs" hspace="5" src="./assets/skills/icons8-nodejs-48 (1).png" />
+<img align="left" alt="github" title="github" hspace="5" src="./assets/skills/icons8-github-48.png" />
+<img align="left" alt="git" title="git" hspace="5" src="./assets/skills/icons8-git-48.png" />
+<img align="left" alt="javaScript" title="javaScript" hspace="5" src="./assets/skills/icons8-js.gif" />
+<img align="left" alt="css3" title="css3" hspace="5" src="./assets/skills/icons8-css-48.png" />
+<img align="left" alt="html5" title="html" hspace="5" src="./assets/skills/icons8-html-48.png" />
+<img align="left" alt="visual-studio-code" title="visual" hspace="5" src="./assets/skills/icons8-visual-studio-code-2019-48.png" />
 
 <!-- github stats starts here  -->
 
