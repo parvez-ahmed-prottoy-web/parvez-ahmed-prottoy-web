@@ -22,11 +22,27 @@
 [<img align="left" width="40" alt="linkedin" title="linkedin" hspace="5" src="./assets/linkedin.png" />][linkedin]
 [<img align="left" width="40" alt="facebook" title="facebook" hspace="5" src="./assets/facebook.png" />][facebook]
 
-<br>
+<br/>
+<br/>
+<!-- my languages section starts here  -->
 
-<h3 align="left">Languages and Tools:</h3>
+### Skills and Tools:
+
+<img alt="postman" title="postman" hspace="5" src="./assets/skills/icons8-postman-is-the-only-complete-api-development-environment-48.png" />
+<img alt="rest-api" title="rest-api" hspace="5" src="./assets/skills/icons8-rest-api-50.png" />
+<img alt="mongodb" title="mongodb" hspace="5" src="./assets/skills/icons8-mongodb-48.png" />
+<img alt="express" title="expressjs" hspace="5" src="./assets/skills/icons8-express-js-48.png" />
+<img alt="nodejs" title="nodejs" hspace="5" src="./assets/skills/icons8-nodejs-48 (1).png" />
+<img alt="github" title="github" hspace="5" src="./assets/skills/icons8-github-48.png" />
+<img alt="git" title="git" hspace="5" src="./assets/skills/icons8-git-48.png" />
+<img alt="javaScript" title="javaScript" hspace="5" src="./assets/skills/icons8-js.gif" />
+<img alt="css3" title="css3" hspace="5" src="./assets/skills/icons8-css-48.png" />
+<img alt="html5" title="html" hspace="5" src="./assets/skills/icons8-html-48.png" />
+<img alt="visual-studio-code" title="visual" hspace="5" src="./assets/skills/icons8-visual-studio-code-2019-48.png" />
 
 <!-- github stats starts here  -->
+
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvez-ahmed-prottoy-web)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -34,7 +50,9 @@
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=parvez-ahmed-prottoy-web&" alt="parvez-ahmed-prottoy-web" /></p>
 
-<!-- my languages section starts here  -->
+<!-- github stats ends here  -->
+
+<!-- my languages section ends here  -->
 
 ### Languages:
 
@@ -44,6 +62,7 @@
   <br />
 
 <!-- my languages section ends here  -->
+
 <!-- my sports and game section starts here  -->
 
 ### Sports / Game / Activities / Hobby:
@@ -53,7 +72,6 @@
 
 ## <!-- my sports and games section ends here  -->
 
-Thanks for going through my Portfolio.
 All rights reserved by **Parvez Ahmed Prottoy** @2024
 
 ---
