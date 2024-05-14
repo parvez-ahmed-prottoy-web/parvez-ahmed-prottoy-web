@@ -57,9 +57,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvez-prottoy)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=parvez-prottoy-web&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=parvez-prottoy&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=parvez-prottoy-web&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=parvez-prottoy&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 
